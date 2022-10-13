@@ -21,6 +21,4 @@ also like anime, movies, and listening to metal or dark techno music. I also lik
 summertime.
 
 ### More :bulb:
-If you wish to reach out, my contact details are here on my Github. Unfortunately, I don't have much more at the moment. Eventually, I plan to add a 
-website here where I will post my game projects. When my schedule clears up some more, I may also start taking some web development side jobs in the future.
-If that happens I will update my profile here.
+Website coming soon
