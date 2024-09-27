@@ -1,7 +1,7 @@
 ## About Me :computer:
-I am a Web Developer by day who works with .NET and Angular. Currently I work for Progressive, but I am also open to part-time freelancing opportunities. If you are in discussing a potential project with me please feel free to reach out.
+I am a Web Developer by day who works with .NET and Angular. Currently I work for Progressive.
 
-By night, I am a game development working on my own Unity projects. Video games are my passion. It was thanks to them that I was introduced to C# and programming in general. Someday I want to release my own indie titles for others to enjoy.
+By night, I am a game development working on my own Unreal projects. Video games are my passion. It was thanks to them that I was introduced to C#, C++, and programming in general. Someday I want to release my own titles for others to enjoy.
 
 ### Other Languages :speech_balloon:
 Besides C#, I am also comfortable in Java, C++, and Python (although some syntax refreshers might be needed for this one.)
